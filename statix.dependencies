@@ -5,7 +5,7 @@
     "revision": "tm-qpr3"
   },
   {
-    "repository": "StatiXOS/android_device_google_pantah-kernel/",
+    "repository": "StatiXOS/android_device_google_pantah-kernel",
     "target_path": "device/google/pantah-kernel",
     "revision": "tm-qpr2"
   },
