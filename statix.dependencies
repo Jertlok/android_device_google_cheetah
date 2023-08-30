@@ -5,6 +5,11 @@
     "revision": "tm-qpr3"
   },
   {
+    "repository": "StatiXOS/android_device_google_pantah-kernel/",
+    "target_path": "device/google/pantah-kernel",
+    "revision": "tm-qpr2"
+  },
+  {
     "repository": "StatiXOS/android_device_google_gs101",
     "target_path": "device/google/gs101",
     "revision": "tm-qpr3"
@@ -22,7 +27,7 @@
   {
     "repository": "StatiXOS/android_device_google_gs201-sepolicy",
     "target_path": "device/google/gs201-sepolicy",
-    "revision": "tm-qpr2"
+    "revision": "tm-qpr3"
   },
   {
     "repository": "anayw2001/vendor_google_devices_cheetah",
