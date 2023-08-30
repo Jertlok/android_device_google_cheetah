@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_google_pantah",
+    "repository": "StatiXOS/android_device_google_pantah",
     "target_path": "device/google/pantah"
   },
   {
